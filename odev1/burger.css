@@ -1,0 +1,18 @@
+body {
+  
+    font-family: 'Poiret One', cursive;
+    color: #000500ff;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #000500ff;
+  }
+
+  h2{
+    text-align: center;
+  }
+  .img {
+    text-align: center;
+  }
